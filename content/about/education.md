@@ -25,7 +25,7 @@ experience:
   - title: Master of Science in Mechanical Engineering - Reserch (MSME-R)
     company: Carnegie Mellon University
     company_url: ''
-    company_logo: CMUlogo.jpg
+    company_logo: ![alt text](../../assets/media/CMUlogo.jpg)
     location: Pittsburgh
     date_start: '2022-09-06'
     date_end: '2024-05-01'
@@ -36,7 +36,7 @@ experience:
   - title: BASc in Eletrical and Computer Engineering
     company: University of British Columbia
     company_url: ''
-    company_logo: UBClogo.png
+    company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
