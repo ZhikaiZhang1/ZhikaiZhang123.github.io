@@ -25,7 +25,7 @@ experience:
   - title: Master of Science in Mechanical Engineering - Reserch (MSME-R)
     company: Carnegie Mellon University
     company_url: ''
-    company_logo: org-x
+    company_logo: CMUlogo.jpg
     location: Pittsburgh
     date_start: '2022-09-06'
     date_end: '2024-05-01'
@@ -33,10 +33,10 @@ experience:
         * Research student at Biobotics Lab
         * research in Modular robot ditributed control and quardruped Planning over Control
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: BASc in Eletrical and Computer Engineering
+    company: University of British Columbia
     company_url: ''
-    company_logo: org-x
+    company_logo: UBClogo.png
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
