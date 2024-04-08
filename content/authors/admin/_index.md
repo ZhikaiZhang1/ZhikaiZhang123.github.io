@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Zhikai (Logan) Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: Research Student
 
 # Status emoji
 status:
@@ -66,8 +66,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master student in Carnegie Mellon university majoring in Mechanical engineering. I am very passionate about robotics and has a lot of experience in robotics research. I am currenty a graduate research assistant in the Biorobotics Lab under Prof. Howie Choset. I hope to continue in robotics research/career in the future!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
